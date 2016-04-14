@@ -1,7 +1,7 @@
 # AndroidGradleLibraryNewShrinkerIssue
 
 Shows an issue with attempting to use the new shrinker on a library.  The following error will occur:
-<code>
+```
   :compileDebugJavaWithJavac UP-TO-DATE
   :transformClassesWithNewClassShrinkerForDebug
   :processDebugJavaRes UP-TO-DATE
@@ -98,4 +98,4 @@ Shows an issue with attempting to use the new shrinker on a library.  The follow
 
 
 BUILD FAILED
-</code>
+```
